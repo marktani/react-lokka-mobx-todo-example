@@ -1,2 +1,2 @@
-# react-lokka-todo-example
-:memo: Todo example app built with React &amp; Lokka
+# react-lokka-mobx-todo-example
+:memo: Todo example app built with React, Lokka &amp; MobX
